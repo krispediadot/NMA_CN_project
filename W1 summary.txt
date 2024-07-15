@@ -1,0 +1,23 @@
+W1D2 - Model Fitting
+Tutorial 1 
+- Linear Regression
+- Mean Square Error(MSE)
+- Least Square Optimization
+
+Tutorial 2
+- probability distribution (gaussian distribution)
+- probabilistic model
+- Probability density function(pdf)
+- likelihood
+- maximum likelihood
+
+Tutorial 3
+- bootstraping(sampling)
+- confident intervals(CI)
+
+Tutorial 4
+- multiple linear regression
+
+
+Tutorial 5
+- model selection
